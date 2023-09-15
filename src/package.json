@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "scripts": {
+    "test": "react-scripts test --env=jsdom",
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "name": "Resizable column - Ant Design Demo",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^3.8.2"
+  },
+  "dependencies": {
+    "@ant-design/icons": "latest",
+    "antd": "4.6.2",
+    "babel-runtime": "6.26.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-drag-listview": "0.1.7",
+    "react-resizable": "latest",
+    "react-scripts": "^3.0.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
